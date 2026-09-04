@@ -1,0 +1,15 @@
+EMMA OLIVIA BOT CUSTOMIZATION
+
+Owner/Admin ID: 61594011388225
+Display name: 𝐄𝐌𝐌𝐀 𝐎𝐋𝐈𝐕𝐈𝐀
+
+Changes made:
+- Command credits/author names replaced with 𝐄𝐌𝐌𝐀 𝐎𝐋𝐈𝐕𝐈𝐀.
+- Hard-coded old owner ID 61550558518720 replaced with 61594011388225 in command/event source.
+- Admin list displays 𝐄𝐌𝐌𝐀 𝐎𝐋𝐈𝐕𝐈𝐀 and 61594011388225.
+- Mention-admin event targets 61594011388225.
+- YouTube/music command files removed: video.js, musicc.js, music-play.js, mu-sing.js, youtube.js.
+- Direct Telegram/WhatsApp/YouTube links removed from remaining command source where present.
+- config.json OWNER/ADMINBOT/GOD/FACEBOOK updated.
+- AutoPostText no longer contains Telegram or another person's name.
+- Existing command filenames and overall project structure were otherwise preserved.
